@@ -128,6 +128,7 @@ Neden:
 * TCP/IP ve ComPort Haberleşme
 * MQTT + JWT
 * TimeOut Service (Redis)
+* OpenSSL
 
 ### AUTH Katmanı ve senaryoları özel olarak tarafımdan yazılmıştır.
 
