@@ -119,9 +119,17 @@ Neden:
 [![FirebaseCloudMessaging][FirebaseCloudMessaging]][FirebaseCloudMessaging-url]
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+### Servislerde kullandığım teknik yapılar
+* CQRS (MediatR (Command,Query,Pipeline))
+* Domain Driven Design
+* IOC (AutoFac)
+* Mapping (AutoMapper)
+* Fluent Validation
+* TCP/IP ve ComPort Haberleşme
+* MQTT + JWT
+* TimeOut Service (Redis)
 
-
+## AUTH Katmanı ve senaryoları benim tarafımdan yazılmıştır.
 
 <!-- ROADMAP -->
 <!--## Yol Haritası
