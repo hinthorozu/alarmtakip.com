@@ -92,7 +92,7 @@ Neden:
 * 16 Yıllık Alarm Takip Merkezi deneyimimi aktarmak.
 * Alternatif bir yazılım ihtiyacının olması.
 * IoT ekosistemi içine girmek.
-* 30 Yaşından sonra yazılım ve sistem ile ilgenirken artık ciddi bir proje yapma isteği :smile:
+* 30 Yaşından sonra yazılım ve sistem ile ilgilenirken artık ciddi bir proje yapma isteği :smile:
 
 
 
