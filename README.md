@@ -129,7 +129,7 @@ Neden:
 * MQTT + JWT
 * TimeOut Service (Redis)
 
-### AUTH Katmanı ve senaryoları benim tarafımdan yazılmıştır.
+### AUTH Katmanı ve senaryoları özel olarak tarafımdan yazılmıştır.
 
 <!-- ROADMAP -->
 <!--## Yol Haritası
