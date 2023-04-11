@@ -126,8 +126,9 @@ Neden:
 * Mapping (AutoMapper)
 * Fluent Validation
 * TCP/IP ve ComPort Haberleşme
-* MQTT + JWT
-* TimeOut Service (Redis)
+* MQTT (RabbitMQ + Eclipse Mosquitto)
+* JWT + 
+* Cache + TimeOut Service (Redis)
 * OpenSSL
 
 ### AUTH Katmanı ve senaryoları özel olarak tarafımdan yazılmıştır.
